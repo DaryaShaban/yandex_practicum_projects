@@ -10,12 +10,12 @@ The hypothesises about preferences of users were partially confirmed.
 
 The following data on listening to tracks in the Music Streming Service was available:
 
- - Name of the track
- - Singer
- - Genre
- - City
- - Listening day
- - Listening time
+ - `Name of the track`
+ - `Singer`
+ - `Genre`
+ - `City`
+ - `Listening day`
+ - `Listening time`
 
 **Libraries used**
 
