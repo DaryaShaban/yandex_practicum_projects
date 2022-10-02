@@ -24,3 +24,7 @@ pandas <br/>
 matplotlib <br/>
 seaborn <br/>
 scipy
+
+**Status**
+
+finished
