@@ -12,3 +12,7 @@ Data on the behavior of customers who have already switched to the new tariffs (
 
 pandas <br/>
 sklearn
+
+**Status**
+
+finished
