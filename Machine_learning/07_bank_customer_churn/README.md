@@ -30,3 +30,7 @@ numpy <br/>
 seaborn <br/>
 sklearn <br/>
 matplotlib
+
+**Status**
+
+finished
