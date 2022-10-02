@@ -46,3 +46,7 @@ numpy <br/>
 seaborn <br/>
 matplotlib <br/>
 sklearn
+
+**Status**
+
+finished
