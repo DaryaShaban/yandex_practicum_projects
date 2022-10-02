@@ -30,3 +30,7 @@ Input data from the bank - statistics on the solvency of customers. It contains:
 pandas <br/>
 pymystem3
 
+**Status**
+
+finished
+
