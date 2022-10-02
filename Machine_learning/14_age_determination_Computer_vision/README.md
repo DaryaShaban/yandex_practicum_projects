@@ -19,3 +19,7 @@ numpy <br/>
 matplotlib <br/>
 seaborn <br/>
 tensorflow (keras)
+
+**Status**
+
+finished
