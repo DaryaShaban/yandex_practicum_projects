@@ -40,5 +40,6 @@ numpy <br/>
 seaborn <br/>
 matplotlib <br/>
 math <br/>
+sklearn <br/>
 catboost <br/>
 lightgbm
