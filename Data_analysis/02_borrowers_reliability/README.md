@@ -12,18 +12,18 @@ The following questions need to be answered
 **Data**
 
 Input data from the bank - statistics on the solvency of customers. It contains:
- - children — number of children in the family
- - days_employed - total work experience in days
- - job_years - client's age in years
- - education — the level of education of the client
- - education_id — education level identifier
- - family_status - marital status
- - family_status_id - marital status identifier
- - gender - gender of the client
- - income_type - type of employment
- - debt - whether he had debt to repay loans
- - total_income - monthly income
- - purpose - the purpose of obtaining a loan
+ - `children` — number of children in the family
+ - `days_employed` - total work experience in days
+ - `job_years` - client's age in years
+ - `education` — the level of education of the client
+ - `education_id` — education level identifier
+ - `family_status` - marital status
+ - `family_status_id` - marital status identifier
+ - `gender` - gender of the client
+ - `income_type` - type of employment
+ - `debt` - whether he had debt to repay loans
+ - `total_income` - monthly income
+ - `purpose` - the purpose of obtaining a loan
 
 **Libraries used**
 
